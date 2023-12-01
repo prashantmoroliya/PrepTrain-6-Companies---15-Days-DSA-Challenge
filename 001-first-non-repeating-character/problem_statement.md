@@ -12,21 +12,21 @@ Ninja is now bored with numbers and is now playing with characters but hates whe
 The first line contains a single integer T representing the number of test cases. 
 
 The first and the only line of each test case will contain the input string.
-<br>
+<br><br>
 **Output Format:**
 For each test case, print a character denoting the first non-repeating character in the input string.
-<br>
+<br><br>
 **Note:**
 You do not need to print anything; it has already been taken care of. Just implement the given function. 
 
 ---
 
 **Constraints:**
+<br><br>
 1 <= T <= 10 <br>
 1 <= Length of Input String <= 10^4 <br>
 <br>
 Time Limit: 1 sec <br>
-<br>
 ```
 Sample Input 1 :
 

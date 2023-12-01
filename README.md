@@ -26,7 +26,7 @@ In the DSA Challenge , Each Day 4 DSA Problems and One Problem related to Core C
 - 1st - 5th Rank (Coding Ninjas Leaderboard) - 1000 Amazon Voucher 
 - 10 Randomly selected contestants who will complete the Challenge and submit their submission on GitHub and then final submission form will receive an Amazon Voucher worth 1000.
 - Exclusive Gift for 50+ Collaborating Placement Cells Students
-    Top 20 College Placement Cells having participation >150 students : 2 Randomly selected contestants who will complete the Challenge and submit their submission on GitHub and then final submission form will receive an Amazon Voucher worth 500.
+    - Top 20 College Placement Cells having participation >150 students : 2 Randomly selected contestants who will complete the Challenge and submit their submission on GitHub and then final submission form will receive an Amazon Voucher worth 500.
 - Note : One participant will be eligible for only one cash prize.
 - Top participants who complete both of these challenges will be given referrals for top tech companies and startups from PrepTrain Community Mentors group whenever the openings will come.
 - Special mentoring session on how to plan the things after this challenge - related to projects , revision , CS Fundamentals, Interview Tips , CV building Workshops will be organised by PrepTrain for students who will complete the challenge.

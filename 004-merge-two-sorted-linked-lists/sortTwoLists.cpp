@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// ignore this...
 template <typename T>
 class Node {
 public:
@@ -22,6 +23,7 @@ public:
     }
 };
 
+// write from this function...
 Node<int>* sort(Node<int>* first, Node<int>* second) {
     // When only one node is in the first list, point its head to the second list
     if (first->next == NULL) {
@@ -71,7 +73,10 @@ Node<int>* sortTwoLists(Node<int>* first, Node<int>* second) {
         return sort(second, first);
     }
 }
+// till here copy and paste in online terminal of coding ninja...
 
+
+// ignore this main function....
 int main() {
     string input1, input2;
 

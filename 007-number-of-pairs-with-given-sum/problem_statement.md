@@ -3,7 +3,9 @@
 ### Problem Statement
 
 You have been given an integer array/list(arr) and a number 'Sum'. Find and return the total number of pairs in the array/list which when added, results equal to the 'Sum'.
-Note:
+
+**Note:**
+
 Given array/list can contain duplicate elements.
 
 (arr[i],arr[j]) and (arr[j],arr[i]) are considered the same.

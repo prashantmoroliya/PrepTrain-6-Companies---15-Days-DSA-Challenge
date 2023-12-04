@@ -4,7 +4,7 @@
 
 You are given an 'N' * 'M' sized binary-valued matrix 'MAT', where 'N' is the number of rows and 'M' is the number of columns. Find and return the maximum size (area) of the submatrix which consists of all 1’s i.e. the maximum area of a submatrix in which each cell has only the value ‘1’.
 
-https://files.codingninjas.in/screenshot-from-2020-11-20-07-52-16-5877.png
+[![screenshot-from-2020-11-20-07-52-16-5877.png](https://i.postimg.cc/nVBp4P91/screenshot-from-2020-11-20-07-52-16-5877.png)](https://postimg.cc/mhLvRVwc)
 
 In the above image, areas in green, red, and violet color are all submatrices of the original 4x4 matrix.
 
@@ -53,8 +53,9 @@ Explanation For Sample Input 1:
 For First Test Case: It is easy to see that whole matrix of size 2 * 2 contains '1' only hence the required area will be 4.
 
 For Second Test Case:
-https://files.codingninjas.in/screenshot-from-2020-11-20-08-14-58-5878.png
-
+```
+[![screenshot-from-2020-11-20-08-14-58-5878.png](https://i.postimg.cc/3xT29VwC/screenshot-from-2020-11-20-08-14-58-5878.png)](https://postimg.cc/PPSL56YP)
+```
 Sample Input 2:
 
 2
@@ -79,6 +80,7 @@ int maximalAreaOfSubMatrixOfAll1(vector<vector<int>> &mat, int n, int m){
 	// Write your code here.
 }
 ```
+
 
 
 
